@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">BelgradeApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="homedesc">Belgrade\'s long and storied history is suggested by its architecture,
+        which varies from Byzantine and Ottoman to neoclassic and romantic buildings in the older neighborhoods,
+        and from Art Nouveau to brutalism and neo-Byzantine design in New Belgrade. The city\'s many theaters,
+        museums, monuments and opera houses boast a deep and fissured cultural life.</string>
+    <string name="hometitle">Welcome to Belgrade</string>
+    <string name="enter_favourite">Enter Favourite</string>
+    <string name="enter">Enter</string>
+    <string name="submit">Submit</string>
+    <string name="picture">picture</string>
+
+    <string-array name="restaurant_names">
+        <item>Restoran Durmitor</item>
+        <item>Little Bay</item>
+        <item>Radost Fina Kuhinjica</item>
+        <item>To Je To</item>
+        <item>Enso</item>
+        <item>Ambar</item>
+        <item>Franš</item>
+    </string-array>
+
+    <string-array name="restaurant_descriptions">
+        <item>Named after the magnificent national park found in Montenegro, Durmitor is a traditional restaurant that embraces all things Montenegrin.
+            If you aren’t aware, that means a relaxed atmosphere and no small amount of delicious fare, with some of the most tender meat we’ve ever come across.
+            You won’t find much English on the menu, but you can feel assured that every single thing on it is fantastic. One of the best
+            restaurants in town, regardless of location.</item>
+        <item>Dorćol’s Little Bay arguably takes the award for Belgrade’s most opulent restaurant interior, and the fare coming out of the kitchen more than accentuates that decadence.
+            If you’ve ever wanted to eat a romantic meal in the surroundings of the theatre, Little Bay is the place for you. The live piano music adds an elegant ambience to it all,
+            not that the aesthetics need any embellishment.</item>
+        <item>One of the best restaurants in the Balkans regardless of cuisine, it stands front and centre of Belgrade’s fight for meals without meats.
+            It isn’t exactly easy to find, located in an apartment building near Kalemegdan, but it is more than worth the effort.
+            Summer is clearly the best time to visit, as the enchanting (a word we don’t use lightly) garden is perfect for meals that are as social as they are romantic,
+            with not a pljeskavica in sight. The name loosely translates as ‘the joy of a fine small kitchen’, and that just about sums it up.</item>
+        <item>Ćevapčići restaurants are ten a penny throughout the Balkans, and 90% of them are going to hit the right spot. Some are simply better than others,
+            though, and To Je To takes the cake when it comes to Belgrade’s old town. Run by a family from Sarajevo,
+            the restaurant is every bit as simplistic as ćevapi is supposed to be. Wooden benches and a pretty brief menu are on offer.
+            Why clutter up a menu when you are just going to order the absolutely gorgeous ćevapi? Kajmak and onions are essential.</item>
+        <item>Belgrade is a city full of affordable adventures and inexpensive eats, but Enso is well and truly at the opposite end of that scale.
+            There isn’t anything wrong with that either, as this is a top-class gourmet restaurant that values every morsel of food it presents.
+            Mediterranean and seafood dishes abound at one of the most magnificent eateries in the entire region.</item>
+        <item>Many restaurants in Europe are obsessed with presenting themselves as ‘traditional yet modern’, but few manage it with such aplomb as Belgrade’s Ambar.
+            There is nothing traditional about the cocktails of course, and the professional staff will go out of their way to match a concoction to a fusion dish from the menu.
+            This is one of the finest spots in the city to sample some rakija too, although do keep an eye on your intake there.</item>
+        <item>A short walk from Belgrade’s iconic Church of St. Sava, Franš has been ploughing its almost equally iconic furrow for well over three decades now.
+            The garden may well be the best in the city, a truly romantic setting for some of the finest eats in the Serbian capital. The classics are all represented on the menu,
+            along with plenty of vegetarian options for those hoping to avoid meat.</item>
+    </string-array>
+
+    <string-array name="activities_names">
+    <item>North Serbia Tour
+    </item>
+        <item>Monesteries Tour
+    </item>
+        <item>Wine Tasting
+    </item>
+        <item>
+        Sightseeing Cruise
+    </item>
+        <item>
+        Danube Tour
+    </item>
+        <item>Lake Tour</item>
+    </string-array>
+    <string-array name="activities_descriptions">
+        <item>
+            Exploring Sremski Karlovci, Vojvodina, and Novi Sad from Belgrade can be tricky without hiring a car. On this full-day tour with a guide,
+            travel comfortably in an air-conditioned vehicle to Northern Serbia and explore this region. Learn about the area’s history and sample local wine and cakes.
+            Visit a monastery and snap photos from Petrovaradin Fortress.
+        </item>
+        <item>
+            Discover the medieval monasteries and natural wonders of Eastern Serbia on this full-day tour of the Pomoravlje province from Belgrade.
+            Admire the 14th-century architecture and stunning frescoes of Ravanica monastery, visit the 15th-century Manasija monastery,
+            then venture underground to explore the ancient Resava cave.
+        </item>
+        <item>
+            Visiting the city of Novi Sad and the town of Sremski Karlovci from Belgrade can be tricky without hiring a car.
+            See both hassle-free on this day tour in an air-conditioned minivan. Depart from your Belgrade hotel with a guide and travel to Fruska Gora and Krusedol Monastery.
+            Taste traditional wines in Sremski Karlovci and stroll through the scenic streets of Novi Sad.
+        </item>
+        <item>
+             Discover the sights of Belgrade without all the crowds aboard a relaxing sightseeing cruise.
+            Join a small group and board your vessel in the Zemun district to begin your journey.
+            See several points of interest including Kalemegdan Fortress and Great War Island as well as the old and modern city.
+            Sip on a drink while you sailed and enjoy live commentary from the crew.
+        </item>
+        <item>
+            Travel through time as you cruise down the Danube on a full-day tour from Belgrade.
+            Comfortable transportation takes you from your hotel to the national park. Listen as your guide gives you the stories behind points of interest from 8,000 BCE,
+            the Roman era, 14th century, and more. It\'s a chance to experience - and photograph - the lesser known natural and manmade wonders of Serbia.
+        </item>
+        <item>
+            Explore Ada Lake with ease on this group e-scooter tour. Stay safe on your e-scooter with a helmet and travel quickly and comfortably in the company of your guide to Ada Ciganlija,
+            a river island converted into a peninsula. Take a break at Ada to go for a swim in the Sava River.
+        </item>
+    </string-array>
+
+    <string-array name="attractions_names">
+    <item>Avala Tower
+    </item>
+        <item>
+            House of Flowers
+        </item>
+        <item>Gardos Tower</item>
+        <item>Nikola Tesla Museum</item>
+        <item>Crkva Svetog Marka</item>
+        <item>Knez Mihajlova Street</item>
+        <item>Saint Sava Temple</item>
+        <item>Belgrade Fortress</item>
+
+    </string-array>
+
+    <string-array name="attractions_descriptions">
+        <item>The Avala Tower, built in 1965 and destroyed by NATO bombing of Serbia in 1999, was rebuilt in 2010,
+            becoming the tallest telecommunications tower in the Balkans. The original tower, with an observation deck,
+            was a source of pride for the region. Public donations paid for the tower’s rebuilding. It can be found on Avala Mountain on the outskirts of Belgrade. At 206 meters (675 feet) high,
+            it is the fifth tallest structure in Serbia;
+            you can literally see for miles and miles from the observation deck.
+        </item>
+        <item>Josip Broz Tito led the Yugoslav Partisans in World War II, later going on to become president of Yugoslavia. A respected leader in the international stage, he died in 1980; he and his wife are burred at the House of Flowers, also known as Tito’s Mausoleum. For a while, flowers surrounded his tomb, giving rise to the name House of Flowers; the flowers are gone now, replaced by white rocks. It was built in 1975 as a winter garden for Tito, who chose to be buried here. The mausoleum today is part of the Museum of Yugoslav History
+        </item>
+        <item>The Gardos Tower is but a youngster when compared to ancient or medieval monuments; it was constructed in 1896. But it’s just as impressive as anything built centuries earlier. It’s also known as the Millennium Tower or the Tower of Janos Hunyadin, a Hungarian hero who died more than 400 years ago on the site of an earlier fortress. Some ruins from the earlier fortress remain today. Originally one of five towers built by the Hungarians to celebrate 1,000 years of rule in the region, the landmark is located in Zemun, 20 km (13 miles) from Belgrade.</item>
+        <item>Well over a century ago, Nikola Tesla energized electricity, inventing the AC system, the electric coil and related items. Generations later, these inventions would lead to a car named after him, the Tesla electric car. They also led to a museum dedicated to his work in central Belgrade. The Nikola Tesla Museum contains thousands of documents, books, photographs and drawings related to his work of electrifying the world. The museum also houses interactive exhibitions including computerized models of his inventions.</item>
+        <item>Crkva Svetog Marka, or Cathedral of St. Mark, was basically completed in 1940 on the site of a wooden church dating back to 1835. Located in central Belgrade’s Tašmajdan park neighborhood, it is one of the largest churches in the country; not too far away is Parliament building. . Above the outside entrance to the church, you’ll find a mosaic of the Apostle Mark for whom the church is named. The church is filled with centuries old icons; several rulers are buried in the crypt.</item>
+        <item>Every city has one: a street that oozes charm, is lined with historic buildings and is where shoppers snap up bargains. In Belgrade, this street is Knez Mihailova Street, named after a Serbian prince. Less than a mile long, the street dates back to the Ottoman days, though it never really came into its own until the 19th century when the wealthy started building homes here. Historic buildings along its path include Srpska Kruna Hotel, built in 1869; private homes at 46, 48 and 50 Knez Mihailova, that date from the 1870s, and Greca Kraljica, a coffee shop in an 1835 building.</item>
+        <item>With a 134-meter (440-foot) high dome, the Temple of Saint Sava dominates Belgrade’s skyline. To make it even taller, the dome is topped with a gold cross almost 12 meter (40 feet) high. The largest Orthodox church in use today, it is dedicated to Saint Sava, an important medieval personage who founded the Serbian Orthodox church. It is located on the Viacar Plateau, where Saint Sava is thought to be buried. Construction on the white marble and granite church started in 1935, halted during World War II and resumed in 1985. Though it is still under construction today it is already one of the most popular attractions in Belgrade</item>
+        <item>Because of its strategic defensive location, people have lived at the confluence of the Sava and Danube rivers since Neolithic times. Then the invaders moved in, first the Celts and later the Romans, who built a palisade here, followed by the Huns and the Goths. It was a Serbian leader, however, in the 15th century who really beefed up the fortifications here. The fortress is remarkably intact, occupying a large chunk of the area. Besides the fortifications, the official fortress area includes a church, a museum and several popular parks.</item>
+    </string-array>
+
+</resources>

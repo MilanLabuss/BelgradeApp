@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home_img_foreground"/>
+    <item
+        android:id="@+id/cuisine"
+        android:title="Cuisine"
+        android:icon="@drawable/cuisine_img_foreground"/>
+    <item
+        android:id="@+id/entertainment"
+        android:title="Activities"
+        android:icon="@drawable/entertainment_foreground"/>
+    <item
+        android:id="@+id/attractions"
+        android:title="Attractions"
+        android:icon="@drawable/attractions_foreground"/>
+    <item
+        android:id="@+id/favourites"
+        android:title="Favorites"
+        android:icon="@drawable/favourites_foreground"/>
+</menu>
